@@ -7,6 +7,7 @@
 [![GitHub kufre](https://img.shields.io/github/followers/kufre-abasi?label=follow&style=social)](https://github.com/kufre-abasi)
 [![Facebook: kufre](https://img.shields.io/badge/-kufreabasibassey-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://web.facebook.com/kufreabasi/)](https://web.facebook.com/kufreabasi)
 [![Gmail: kufre](https://img.shields.io/badge/-kufreabasibassey-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kufreabasibassey3@gmail.com)](mailto:kufreabasibassey3@gmail.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kufre-abasi&label=Profile%20views&color=0e75b6&style=flat" alt="texxalabs" /> </p>
 
 ![Kufre's GitHub stats](https://github-readme-stats.vercel.app/api?username=kufre-abasi&show_icons=true&theme=transparent)
 
