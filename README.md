@@ -5,7 +5,7 @@
 [![Linkedin: kufre](https://img.shields.io/badge/-kufreabasibassey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kufre-abasi-bassey-692b38212/)](https://www.linkedin.com/in/kufre-abasi-bassey-692b38212/)
 [![Whatsapp: kufre](https://img.shields.io/badge/-kufreabasibassey-green?style=flat-square&logo=Whatsapp&logoColor=white&link=https://wa.link/x477i5/)](https://wa.link/x477i5)
 [![GitHub kufre](https://img.shields.io/github/followers/kufre-abasi?label=follow&style=social)](https://github.com/kufre-abasi)
-[![Facebook: kufre](https://img.shields.io/badge/-kufreabasibassey-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://web.facebook.com/kuferabasi/)](https://web.facebook.com/kufreabasi)
+[![Facebook: kufre](https://img.shields.io/badge/-kufreabasibassey-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://web.facebook.com/kuferabasi/)](https://web.facebook.com/kuferabasi)
 [![Gmail: kufre](https://img.shields.io/badge/-kufreabasibassey-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kufreabasibassey3@gmail.com)](mailto:kufreabasibassey3@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kufre-abasi&label=Profile%20views&color=0e75b6&style=flat" alt="texxalabs" /> </p>
 
