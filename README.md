@@ -30,3 +30,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://app.daily.dev/DailyDevTips">
   <img src="https://api.daily.dev/devcards/9df4e2efb1574960b89a3ff5eee74f4a.png?r=abt" width="200"  alt="Kufre-abasi's Dev Card"/>
  </a>
+ <a href="https://nextjs.org/">
+  <img src="https://nextjs.org/conf/ticket/kufre-abasi" width="200"  alt="Kufre-abasi's Ticket"/>
+ </a>
+
+ 
