@@ -6,7 +6,7 @@ Let's collaborate and turn your vision into a seamless, user-friendly reality.
  
  [![Twitter: kufre](https://img.shields.io/twitter/follow/kufreabasiBass1?style=social)](https://twitter.com/kufreabasiBass1)
 [![Linkedin: kufre](https://img.shields.io/badge/-kufreabasibassey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kufre-abasi-bassey-692b38212/)](https://www.linkedin.com/in/kufre-abasi-bassey-692b38212/)
-[![Whatsapp: kufre](https://img.shields.io/badge/-kufreabasibassey-green?style=flat-square&logo=Whatsapp&logoColor=white&link=https://wa.link/x477i5/)](https://wa.link/x477i5)
+<!-- [![Whatsapp: kufre](https://img.shields.io/badge/-kufreabasibassey-green?style=flat-square&logo=Whatsapp&logoColor=white&link=https://wa.link/x477i5/)](https://wa.link/x477i5) -->
 [![GitHub kufre](https://img.shields.io/github/followers/kufre-abasi?label=follow&style=social)](https://github.com/kufre-abasi)
 [![Facebook: kufre](https://img.shields.io/badge/-kufreabasibassey-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://web.facebook.com/kuferabasi/)](https://web.facebook.com/kuferabasi)
 [![Gmail: kufre](https://img.shields.io/badge/-kufreabasibassey-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kufreabasibassey3@gmail.com)](mailto:kufreabasibassey3@gmail.com)
@@ -16,6 +16,22 @@ Let's collaborate and turn your vision into a seamless, user-friendly reality.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kufre-abasi&layout=compact)
 
+## 🏆 Github Trophy
+  
+<a href="https://hire-kufre.netlify.app/">
+<img alt="Github Trophy" src="https://github-profile-trophy.vercel.app/?username=kufre-abasi&theme=gruvbox">
+</a>
+
+## 📊 Profile views
+  ![](https://komarev.com/ghpvc/?username=kufre-abasi&color=green) <br />
+  
+### 📊 GitHub Stats
+
+<a href="https://github.com/kufre-abasi"><img src="https://github-readme-stats.vercel.app/api?username=kufre-abasi&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="Kufre-abasi's GitHub stats" /></a>
+
+## Streak Stats
+
+<img alt="My github streak, reload to view" src="https://github-readme-streak-stats.herokuapp.com/?user=kufre-abasi&theme=dark">
 <!-- 
 - 📫 How to reach me
 -  Email: kufreabasibassey3@gmail.com ,
