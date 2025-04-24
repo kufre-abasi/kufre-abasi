@@ -3,16 +3,18 @@
 I spend most of my time immersed in writing code, delving into books, and relishing every moment. What drives my passion is the perfect blend of programming, design, user interfaces, and my commitment to open-source projects. Together, these elements fuel my enthusiasm for creating exceptional digital experiences.
 Let's collaborate and turn your vision into a seamless, user-friendly reality.
 </p>
- 
+
+ ### 🔗 Connect via
  [![Twitter: kufre](https://img.shields.io/twitter/follow/kufreabasiBass1?style=social)](https://twitter.com/kufreabasiBass1)
 [![Linkedin: kufre](https://img.shields.io/badge/-kufreabasibassey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kufre-abasi-bassey-692b38212/)](https://www.linkedin.com/in/kufre-abasi-bassey-692b38212/)
 <!-- [![Whatsapp: kufre](https://img.shields.io/badge/-kufreabasibassey-green?style=flat-square&logo=Whatsapp&logoColor=white&link=https://wa.link/x477i5/)](https://wa.link/x477i5) -->
 [![GitHub kufre](https://img.shields.io/github/followers/kufre-abasi?label=follow&style=social)](https://github.com/kufre-abasi)
 [![Facebook: kufre](https://img.shields.io/badge/-kufreabasibassey-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://web.facebook.com/kuferabasi/)](https://web.facebook.com/kuferabasi)
 [![Gmail: kufre](https://img.shields.io/badge/-kufreabasibassey-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kufreabasibassey3@gmail.com)](mailto:kufreabasibassey3@gmail.com)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kufre-abasi&label=Profile%20views&color=0e75b6&style=flat" alt="texxalabs" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=kufre-abasi&label=Profile%20views&color=0e75b6&style=flat" alt="kufre" /> </p>-->
 
-![Kufre's GitHub stats](https://github-readme-stats.vercel.app/api?username=kufre-abasi&show_icons=true&theme=transparent)
+<!--![Kufre's GitHub stats](https://github-readme-stats.vercel.app/api?username=kufre-abasi&show_icons=true&theme=transparent)-->
+## 📊 Top Languages Used
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kufre-abasi&layout=compact)
 
@@ -27,7 +29,7 @@ Let's collaborate and turn your vision into a seamless, user-friendly reality.
   
 ### 📊 GitHub Stats
 
-<a href="https://github.com/kufre-abasi"><img src="https://github-readme-stats.vercel.app/api?username=kufre-abasi&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="Kufre-abasi's GitHub stats" /></a>
+<a href="https://github.com/kufre-abasi"><img src="https://github-readme-stats.vercel.app/api?username=kufre-abasi&show_icons=true&theme=transparent" alt="Kufre-abasi's GitHub stats" /></a>
 
 ## Streak Stats
 
