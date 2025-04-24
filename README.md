@@ -1,5 +1,4 @@
-<h1> Hi, I’m Kufre-abasi Bassey <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
- <p>  a dedicated front-end developer. My world revolves around web technologies, where I craft interactive user interfaces and explore the vibrant JavaScript ecosystem to make a living doing what I love.
+<p><h1> Hi, I’m Kufre-abasi Bassey <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>  a dedicated Software Engineer||front-end. My world revolves around web technologies, where I craft interactive user interfaces and explore the vibrant JavaScript ecosystem to make a living doing what I love.
 I spend most of my time immersed in writing code, delving into books, and relishing every moment. What drives my passion is the perfect blend of programming, design, user interfaces, and my commitment to open-source projects. Together, these elements fuel my enthusiasm for creating exceptional digital experiences.
 Let's collaborate and turn your vision into a seamless, user-friendly reality.
 </p>
